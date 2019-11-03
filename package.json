@@ -1,0 +1,10 @@
+{
+  "name": "static-site-mailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "onikokoabdullahi@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "serverless": "^1.56.1"
+  }
+}
